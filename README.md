@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
-- please come to my blog!
-- https://blog.naver.com/goldboy122
+- https://velog.io/@chs122/posts
 <!--
 **Tozinoo/Tozinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
